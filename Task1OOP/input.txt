@@ -1,0 +1,8 @@
+// Team Name;Partcipant 1,Participant 2,Participant 3,Participant 4;Country;Tasks solved,Points,Penalty Points;Coach Full Name,Place Of Work,Work Phone Number,Phone Number,Coach Age
+Team 501;Lobach Stanislav Stanislavovich,Valitskiy Danila Vasilievich;Ukraine;12,435,33;Artem Van Gog,Netherlands FA,+4234723849283,+93423842342,27
+Baltika Semerka;Vershel Alexandr Stanislavovich,Artish Vadim Vyacheslavovich,Petrushkevich Andrey Anatolievich;Belarus;15,873,122;Varets Vladislav Gennadievich,Nowhere,+375292890720,+375151531475,19
+Gangsteri;Zubenko Mikhail Petrovich,Shisha Dmitriy Sergeevich;China;25,1235,543;Gogniev Spartak Arturovich,FC Khimki,+2312321312,+234234123,4
+;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+
