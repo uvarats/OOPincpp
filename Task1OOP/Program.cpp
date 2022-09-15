@@ -12,15 +12,10 @@ int main()
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
     setlocale(LC_ALL, "Russian");
-    try {
-        FileUtils* fUtils = new FileUtils();
-        vector<Team> teams = fUtils->getTeams();
-        TeamUtils teamUtils = TeamUtils();
-        Coach youngest = teamUtils.getYoungestCoach(teams);
-        cout << youngest;
-        cout << "\n";
-    }
-    catch (exception e) {
-        cout << e.what();;
-    }
+    string country = "Ukraine";
+    FileUtils fUtils = FileUtils();
+    vector<Team> teams = fUtils.getTeams();
+    TeamUtils teamUtils = TeamUtils();
+    string report = teamUtils.getReport(teams, country);
+    fUtils.writeLine(report);
 }

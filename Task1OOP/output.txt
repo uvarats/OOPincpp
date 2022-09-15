@@ -1,0 +1,10 @@
+Команды, у которых штрафных баллов больше, чем количество набранных баллов: 
+
+Команды, отсортированные по количество штрафных баллов: 
+Team 007;Zubenko Mikhail Petrovich,Shisha Dmitriy Sergeevich;Poland;25,1235,543;Dohn Joe,ASdqowdqwk,+2312321312,+234234123,41
+Random Team;Vershel Alexandr Stanislavovich,Artish Vadim Vyacheslavovich,Petrushkevich Andrey Anatolievich;Belarus;15,873,122;Youngest Coach,Nowhere,+375291234567,+375157891011,19
+Team 501;Lobach Stanislav Stanislavovich,Participant 1234;Ukraine;12,435,33;John Doe,Some place of work,+4234723849283,+93423842342,27
+
+Команд, представляющих страну Ukraine : 1
+Самый молодой тренер: 
+Youngest Coach,Nowhere,+375291234567,+375157891011,19
